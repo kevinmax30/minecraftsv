@@ -1,0 +1,45 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:red_mushroom": 1,
+      "minecraft:birch_log": 13
+    },
+    "minecraft:killed": {
+      "minecraft:spider": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 4,
+      "minecraft:birch_planks": 52,
+      "minecraft:crafting_table": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:string": 2,
+      "minecraft:birch_log": 13,
+      "minecraft:wheat_seeds": 1,
+      "minecraft:red_mushroom": 1,
+      "minecraft:spider_eye": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 17170,
+      "minecraft:walk_one_cm": 52786,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 720,
+      "minecraft:damage_taken": 190,
+      "minecraft:damage_dealt": 159,
+      "minecraft:play_time": 17170,
+      "minecraft:jump": 295,
+      "minecraft:time_since_death": 17170,
+      "minecraft:sprint_one_cm": 34474,
+      "minecraft:fall_one_cm": 3240,
+      "minecraft:swim_one_cm": 694,
+      "minecraft:total_world_time": 17170,
+      "minecraft:fly_one_cm": 24146,
+      "minecraft:walk_on_water_one_cm": 1651,
+      "minecraft:crouch_one_cm": 63,
+      "minecraft:sneak_time": 34
+    }
+  },
+  "DataVersion": 4671
+}

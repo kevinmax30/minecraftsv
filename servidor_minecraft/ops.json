@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "6e63b4e5-75eb-3851-a9be-fe1079581045",
+    "name": "berlychess",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c771be8e-4026-3253-a46e-59adfecfad1c",
+    "name": "versa121",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "8970b94b-0b05-4ce9-96b3-e547089c7867",
+    "name": "berlychess",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3c85328b-3551-3f67-ac2a-6cb4ce1262dc",
+    "name": "zamasu_48",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

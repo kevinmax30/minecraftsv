@@ -1,0 +1,35 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:sand": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:wildflowers": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:birch_log": 1,
+      "minecraft:sand": 2,
+      "minecraft:wildflowers": 5
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 7066,
+      "minecraft:walk_one_cm": 39710,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 2101,
+      "minecraft:damage_taken": 20,
+      "minecraft:play_time": 7066,
+      "minecraft:jump": 81,
+      "minecraft:time_since_death": 7066,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 7854,
+      "minecraft:open_chest": 2,
+      "minecraft:fall_one_cm": 1275,
+      "minecraft:swim_one_cm": 1083,
+      "minecraft:total_world_time": 7066,
+      "minecraft:fly_one_cm": 2143,
+      "minecraft:walk_on_water_one_cm": 1892,
+      "minecraft:sneak_time": 26
+    }
+  },
+  "DataVersion": 4671
+}
